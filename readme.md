@@ -1,2 +1,3 @@
-# [Material Dashboard Laravel - Free Frontend Preset for Laravel](https://material-dashboard-laravel.creative-tim.com/?ref=adnp-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Dashboard%20Laravel%20is%20a%20Free%20Frontend%20Preset%20for%20Laravel%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//material-dashboard-laravel.creative-tim.com/%20%23%material%20%23design%20%23dashboard%20%23laravel%20%23free%20via%20%40CreativeTim)
 
+this project is a student managment system, built using a PHP frame work (Laravel).
+I have integerate a AdminLTE theme with the laravel components to get the desired interface, rest of the functionality is added afterwards.
