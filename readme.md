@@ -1,5 +1,5 @@
 
-this project is a student managment system, built using a PHP frame work (Laravel).
+This project is a student managment system, built using a PHP frame work (Laravel).
 I have integerated a AdminLTE Template with laravel to get the desired interface, rest of the functionality is added afterwards.
 
 TO run this prject:
